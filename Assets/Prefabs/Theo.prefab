@@ -257,7 +257,7 @@ MonoBehaviour:
   groundCheckRadius: 0.2
   groundLayer:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 256
   attackPoint: {fileID: 6742797564370563894}
   attackRadius: 0.6
   enemyLayer:
